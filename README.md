@@ -1,9 +1,3 @@
-To make your GitHub profile feel more genuine and "own voices," it’s best to pivot from a traditional resume summary to a narrative that explains **why** you build what you build. People usually look for the person behind the code—your problem-solving philosophy and what keeps you curious.
-
-Here is a simplified, more personal version:
-
----
-
 ## Hi, I'm Ruiyang. I like making systems go fast. ⚡
 
 I’m a CS student at **Cornell** with a passion for the "engine room" of software—distributed systems, performance optimization, and infrastructure.
